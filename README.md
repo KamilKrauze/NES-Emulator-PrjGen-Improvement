@@ -4,7 +4,10 @@ Basic NES emulator that only supports NROM (mapper 0) games.
 
 # Compilation
 
-Rune make in the directory containing the Makefile to compile the emulator in the same directory.
+To compile, run:
+
+cmake pathToSourceFolder/src
+make
 
 # Running
 
