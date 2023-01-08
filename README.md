@@ -16,12 +16,20 @@ Emulator must be given one argument, that being the .nes file it is to run e.g. 
 # Controls
 
 Up - Up Arrow
+
 Down - Down Arrow
+
 Left - Left Arrow
+
 Right - Right Arrow
+
 A - Z
+
 B - X
+
 Start - Enter
+
 Select - Backspace
+
 
 Currently no way to remap controls other than directly modifying the controls.cpp file.
