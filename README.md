@@ -59,7 +59,7 @@ Emulator must be given one argument, that being the .nes file it is to run e.g. 
 |Start | Enter|
 |Select | Backspace|
 
-Currently no way to remap controls other than directly modifying the controls.cpp file.
+Currently no way to remap controls other than directly modifying the `controls.cpp` file.
 
 ## Changes
 |Changes|Date|
