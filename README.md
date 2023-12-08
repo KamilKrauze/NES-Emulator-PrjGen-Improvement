@@ -2,10 +2,12 @@
 
 Basic NES emulator that only supports NROM (mapper 0) games.
 
+For changes to this project by @KamilKrauze go to [Changes](#changes)
+
 ## PreMake Project Files
 DISCLAIMER: I do not own the right nor contribute to the PreMake project.
 
-You may use PreMake optionally to generate your project files you can also use the provided CMake files that are already provided by @filip-arch.
+You may use PreMake optionally to generate your project files you can also use the provided CMake files that are already provided by [@filip-arch](https://github.com/filip-arch).
 
 > 1. Download [PreMake5](https://premake.github.io/) and insert into the project root directory.
 > 2. You may either run the bash script `GenerateProjectFiles.sh` as shown below:
