@@ -2,7 +2,7 @@
 
 Basic NES emulator that only supports NROM (mapper 0) games.
 
-For changes to this project by @KamilKrauze go to [Changes](#changes)
+For changes to this project by [@KamilKrauze](https://github.com/KamilKrauze) go to [Changes](#changes).
 
 ## PreMake Project Files
 DISCLAIMER: I do not own the right nor contribute to the PreMake project.
