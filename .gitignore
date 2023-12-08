@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Project Generation files
+Makefile
+premake5
+premake5.lua
